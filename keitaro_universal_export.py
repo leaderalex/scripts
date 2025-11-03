@@ -1,9 +1,19 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+
+
+
+
+
 """
 Универсальный скрипт для скачивания лендингов или офферов из Keitaro.
 Выберите что скачивать через переменную EXPORT_TYPE.
+
+
+# Keitaro API настройки ENV
+KEITARO_TRACKER_URL=https://your-tracker-domain.com
+KEITARO_API_KEY=your-api-k
 """
 
 import os
