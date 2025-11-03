@@ -7,10 +7,11 @@
 
 
 """
+
 Универсальный скрипт для скачивания лендингов или офферов из Keitaro.
 Выберите что скачивать через переменную EXPORT_TYPE.
 
-
+ВАЖНО СОЗДАТЬ ТАКОЙФАЙЛ 
 # Keitaro API настройки ENV
 KEITARO_TRACKER_URL=https://your-tracker-domain.com
 KEITARO_API_KEY=your-api-k
